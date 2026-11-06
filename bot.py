@@ -47,7 +47,7 @@ from aiogram.types import (
 # ═══════════════════════════════════════════
 
 BOT_TOKEN = "9215003509:AAHOGd4VfG85ya2gUAwrUpjGJ-Uxzc0nn8w"
-OWNER_ID  = 8115616777
+OWNER_ID  = 2144710573
 
 # Required channels are stored persistently and managed from the owner panel.
 INITIAL_REQUIRED_CHANNEL = {"id": -1003997243352, "invite": "https://t.me/cpmmurod"}
